@@ -1,1 +1,1 @@
-added class B
+added class B v1.0
